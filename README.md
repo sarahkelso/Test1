@@ -1,3 +1,1 @@
-Creating a new directory
-Practicing a pull request in a new branch
-Yes this is good
+This repo is for practicing git and rstudio
